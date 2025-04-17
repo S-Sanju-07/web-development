@@ -1,0 +1,95 @@
+.ti{
+    margin-left: 70px;
+    margin-top: 40px;
+    display: flex;
+    
+}
+.na{
+    color: orangered;
+}
+ul{
+    display: flex;
+    margin-left: 20%;
+    padding: 5px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.tr{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.hi{
+    color: orangered;
+}
+.button{
+    display: flex;
+    margin-left: 70%;
+    margin-top: -60px;
+  
+}
+.bbb{
+    background-color: orangered;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.bb{
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.fname{
+    color:gray;
+    margin-left: 5%;
+}
+.foods{
+    margin-left: 5%;
+    font-size: 50px;
+}
+.p1{
+    margin-left: 5%;
+    color: gray;
+}
+.le{
+    margin-left: 5%;
+    border-radius: 60px;
+}
+.im2{
+    margin-left: 50%;
+    margin-top: -180px;
+}
+.bbbb{
+    background-color: orangered;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.c{
+    border-radius: 20px;
+    padding: 10px;
+}
+.aa{
+    margin-left: 5%;
+    color:orangered;
+}
+.p2{
+    margin-left: 5%;
+    color: gray;
+}
+.box{
+    border: 1px solid black;
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    margin-left: 5%;
+}
+.box1{
+    border: 1px solid black;
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    margin-left: 5%;
+}
